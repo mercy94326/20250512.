@@ -11,7 +11,7 @@ let uvCoords;
 function preload() {
   // Load the faceMesh model
   faceMesh = ml5.faceMesh(options);
-  uvMapImage = loadImage("images.jpg");
+  uvMapImage = loadImage("61uRa4ZmPtL._AC_UY1000_.jpg");
 }
 
 function setup() {
